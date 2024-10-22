@@ -1,0 +1,20 @@
+.add-ticket-form {
+    margin: 20px;
+  }
+  
+  .add-ticket-form input,
+  .add-ticket-form select,
+  .add-ticket-form button {
+    margin: 5px;
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .add-ticket-form button {
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+  }
+  
